@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayesha Sabir
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++ projects
+- 🌱 I’m currently learning c++ and java
+- 💞️ I’m looking to collaborate on c++ and java projects
 - 📫 How to reach me on this platform 
 
 <!---
